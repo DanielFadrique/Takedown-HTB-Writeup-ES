@@ -3,7 +3,7 @@ Writeup del sherlock retirado Takedown de la plataforma HackThebox, el cual se c
 
 -----------------
 
-![/img/Pasted image 20251005151439.png | 1080](https://github.com/DanielFadrique/Takedown-HTB-Writeup-ES/blob/main/img/Pasted%20image%2020251005151439.png | 1080)
+![/img/Pasted image 20251005151439.png | 1080](https://github.com/DanielFadrique/Takedown-HTB-Writeup-ES/blob/main/img/Pasted%20image%2020251005151439.png)
 El laboratorio Sherlock **Takedown** de la plataforma **HackTheBox**, es un laboratorio que se encarga de poner a prueba las hablidades del jugador en tareas sobre el analisis de redes y malware, una practica muy buena y versatil para poder ir viendo todo el espectro de un *Cyber Kill Chain*.
 
 Pero sin mas dilacion, empecemos con la resolucion del Sherlock:
@@ -165,7 +165,7 @@ Ahí nos podemos encontrar al **User-agent**(*usuario-agente*) de la maquina vic
 
 Como hemos visto en la pregunta #10 tenemos una IP que su resolucion de nombre nos da: *badbutperfect.com*, vamos a buscar su IP en *Direcciones resueltas* como hicimos en la pregunta #2:
 
-![/img/Pasted image 20251006203454.png](https://github.com/DanielFadrique/Takedown-HTB-Writeup-ES/blob/main/img/Pasted image 20251006203454.png)
+![/img/Pasted image 20251006203454.png](https://github.com/DanielFadrique/Takedown-HTB-Writeup-ES/blob/main/img/Pasted%20image%2020251006203454.png)
 #### **Respuesta:**  *103.124.105.78*
 
 ------------------
