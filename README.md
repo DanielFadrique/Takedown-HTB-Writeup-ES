@@ -3,7 +3,7 @@ Writeup del sherlock retirado Takedown de la plataforma HackThebox, el cual se c
 
 -----------------
 
-![/img/Pasted image 20251005151439.png | 1080](https://github.com/DanielFadrique/Takedown-HTB-Writeup-ES/blob/main/img/Pasted%20image%2020251005151439.png|1080)
+![/img/Pasted image 20251005151439.png | 1080](https://github.com/DanielFadrique/Takedown-HTB-Writeup-ES/blob/main/img/Pasted%20image%2020251005151439.png)
 
 El laboratorio Sherlock **Takedown** de la plataforma **HackTheBox**, es un laboratorio que se encarga de poner a prueba las hablidades del jugador en tareas sobre el analisis de redes y malware, una practica muy buena y versatil para poder ir viendo todo el espectro de un *Cyber Kill Chain*.
 
