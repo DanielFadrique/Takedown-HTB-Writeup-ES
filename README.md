@@ -1,9 +1,11 @@
 # Takedown HTB Writeup ES
-Writeup del sherlock retirado Takedown de la plataforma HackThebox, el cual se centra en el dominio del análisis de paquetes de red ante un posible equipo comprometido. Este writeup es una traducción directa en español del material oficial, el cual se encuentra en inglés
+Writeup del sherlock retirado Takedown de la plataforma HackThebox, el cual se centra en el dominio del análisis de paquetes de red ante un posible equipo comprometido.
+
+*Este writeup es una traducción directa en español del material oficial, el cual se encuentra en inglés.*
 
 -----------------
 
-![/img/Pasted image 20251005151439.png | 1080](https://github.com/DanielFadrique/Takedown-HTB-Writeup-ES/blob/main/img/Pasted%20image%2020251005151439.png)
+![/img/Pasted image 20251005151439.png](https://github.com/DanielFadrique/Takedown-HTB-Writeup-ES/blob/main/img/Pasted%20image%2020251005151439.png)
 
 El laboratorio Sherlock **Takedown** de la plataforma **HackTheBox**, es un laboratorio que se encarga de poner a prueba las hablidades del jugador en tareas sobre el analisis de redes y malware, una practica muy buena y versatil para poder ir viendo todo el espectro de un *Cyber Kill Chain*.
 
@@ -172,4 +174,6 @@ Como hemos visto en la pregunta #10 tenemos una IP que su resolucion de nombre n
 ------------------
 
 *Daniel Fadrique #2025*
+
+ <!-- Daniel Fadrique ##2025 *Pax et Libertas* -->
 
